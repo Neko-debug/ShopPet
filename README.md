@@ -3,9 +3,9 @@
 ## Dự án không lớn
 
 1. Đối tượng dùng
-A. Super Admin
+ A. Super Admin
 Aa. Admin
-B. Người bán
+B. Người mua
 2. Chức Năng Từng Phần
  A. Super Admin
 - Quản lý nội dung : banner, thông tin mặt hàng, loại sản phẩm, bài viết
